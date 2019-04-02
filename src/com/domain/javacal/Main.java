@@ -8,6 +8,8 @@ public class Main {
 		System.out.println(sumNum);
 		
 		System.out.println(cal.subtract(10, 8));
+		
+		System.out.println(cal.multiply(2, 2));
 	}
 
 }
