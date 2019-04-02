@@ -12,6 +12,9 @@ public class Main {
 		System.out.println(cal.multiply(2, 2));
 		
 		System.out.println(cal.division(4, 2));
+		
+		System.out.println(cal.division3(9, 3));
+
 	}
 
 }

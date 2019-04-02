@@ -5,7 +5,7 @@ public class CalculatorJava {
 
 	public static int sum(int a, int b) {
 
-		return a + b;
+		return a+b;
 
 	}
 
@@ -24,5 +24,10 @@ public class CalculatorJava {
 
 	}
 	
+	
+	public static int division3(int a, int b) {
+		return a / b;
+
+	}
 	
 }
